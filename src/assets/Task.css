@@ -1,0 +1,20 @@
+.taskName, .lineThrough {
+    display: inline;
+}
+
+.taskArea {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.tick {
+    width: 40vh;
+}
+
+.lineThrough {
+    text-decoration: line-through;
+}
+
+.delete {
+    margin-left: 140px;
+}
